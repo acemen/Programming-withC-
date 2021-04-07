@@ -1,0 +1,5 @@
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Chapter2Program01\Chapter2Program01\obj\Debug\Chapter2Program01.csprojAssemblyReference.cache
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Chapter2Program01\Chapter2Program01\obj\Debug\frmMain.resources
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Chapter2Program01\Chapter2Program01\obj\Debug\Chapter2Program01.Properties.Resources.resources
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Chapter2Program01\Chapter2Program01\obj\Debug\Chapter2Program01.csproj.GenerateResource.cache
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Chapter2Program01\Chapter2Program01\obj\Debug\Chapter2Program01.csproj.CoreCompileInputs.cache

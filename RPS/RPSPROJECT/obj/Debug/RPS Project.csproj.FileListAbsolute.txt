@@ -1,0 +1,20 @@
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Rock-Paper-Scissors-master\DeeganRobertRockPaperScissors\obj\Debug\DeeganRobertRockPaperScissors.Form1.resources
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Rock-Paper-Scissors-master\DeeganRobertRockPaperScissors\obj\Debug\RPS Project.csproj.GenerateResource.cache
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Rock-Paper-Scissors-master\DeeganRobertRockPaperScissors\obj\Debug\RPS Project.csproj.CoreCompileInputs.cache
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Rock-Paper-Scissors-master\DeeganRobertRockPaperScissors\bin\Debug\RPSPROJECT.exe.config
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Rock-Paper-Scissors-master\DeeganRobertRockPaperScissors\bin\Debug\RPSPROJECT.exe
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Rock-Paper-Scissors-master\DeeganRobertRockPaperScissors\bin\Debug\RPSPROJECT.pdb
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Rock-Paper-Scissors-master\DeeganRobertRockPaperScissors\obj\Debug\RPS Project.csprojAssemblyReference.cache
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Rock-Paper-Scissors-master\DeeganRobertRockPaperScissors\obj\Debug\RPSPROJECT.Properties.Resources.resources
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Rock-Paper-Scissors-master\DeeganRobertRockPaperScissors\obj\Debug\RPSPROJECT.exe
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Rock-Paper-Scissors-master\DeeganRobertRockPaperScissors\obj\Debug\RPSPROJECT.pdb
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\RPS\RPSPROJECT\bin\Debug\RPSPROJECT.exe.config
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\RPS\RPSPROJECT\bin\Debug\RPSPROJECT.exe
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\RPS\RPSPROJECT\bin\Debug\RPSPROJECT.pdb
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\RPS\RPSPROJECT\obj\Debug\RPS Project.csprojAssemblyReference.cache
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\RPS\RPSPROJECT\obj\Debug\RPS.Form1.resources
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\RPS\RPSPROJECT\obj\Debug\RPSPROJECT.Properties.Resources.resources
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\RPS\RPSPROJECT\obj\Debug\RPS Project.csproj.GenerateResource.cache
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\RPS\RPSPROJECT\obj\Debug\RPS Project.csproj.CoreCompileInputs.cache
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\RPS\RPSPROJECT\obj\Debug\RPSPROJECT.exe
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\RPS\RPSPROJECT\obj\Debug\RPSPROJECT.pdb

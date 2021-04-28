@@ -1,0 +1,10 @@
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Project9(Letter Count)\Project9(Letter Count)\obj\Debug\Project9(Letter Count).csprojAssemblyReference.cache
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Project9(Letter Count)\Project9(Letter Count)\obj\Debug\Project9_Letter_Count_.Properties.Resources.resources
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Project9(Letter Count)\Project9(Letter Count)\obj\Debug\Project9(Letter Count).csproj.GenerateResource.cache
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Project9(Letter Count)\Project9(Letter Count)\obj\Debug\Project9(Letter Count).csproj.CoreCompileInputs.cache
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Project9(Letter Count)\Project9(Letter Count)\bin\Debug\Project9(Letter Count).exe.config
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Project9(Letter Count)\Project9(Letter Count)\bin\Debug\Project9(Letter Count).exe
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Project9(Letter Count)\Project9(Letter Count)\bin\Debug\Project9(Letter Count).pdb
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Project9(Letter Count)\Project9(Letter Count)\obj\Debug\Project9_Letter_Count_.Form1.resources
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Project9(Letter Count)\Project9(Letter Count)\obj\Debug\Project9(Letter Count).exe
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Project9(Letter Count)\Project9(Letter Count)\obj\Debug\Project9(Letter Count).pdb
